@@ -1,0 +1,4 @@
+# The solver and the experiments use the Python standard library only.
+# These are needed to rebuild the article tables and figures.
+pandas>=1.5
+matplotlib>=3.6
